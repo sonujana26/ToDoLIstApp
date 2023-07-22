@@ -40,11 +40,4 @@ java main
 
 Follow the on-screen instructions to interact with the ToDo list application.
 
-Contributing
-
-Contributions to this project are welcome! If you have any ideas for new features, bug fixes, or enhancements, please open an issue or submit a pull request. Your contributions will help improve the application for everyone.
-
-When contributing code, please ensure that it follows the existing code style and practices. Also, add appropriate documentation and test your changes thoroughly.
-
-
-
+Pkg suggested openjdk-17 
