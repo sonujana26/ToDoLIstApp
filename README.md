@@ -25,7 +25,7 @@ git clone https://github.com/sonujana26/ToDoLIstApp.git
 
 2. Navigate to the project directory:
 ```bash
-cd ToDoListApp
+cd ToDoLIstApp
 ```
 
 3. Compile the Java source files:
